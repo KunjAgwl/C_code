@@ -9,4 +9,4 @@
 
 <img width="201" height="34" alt="image" src="https://github.com/user-attachments/assets/f2791479-b632-4e43-abf6-295eca652a9a" />
 
-**Removed the int from mix because it is already declared globally and changed the type of variable storing the output of compute to int
+**Removed the int from mix because it is already declared globally and changed the type of variable storing the output of compute to int**
